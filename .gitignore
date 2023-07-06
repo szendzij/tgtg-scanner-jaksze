@@ -1,0 +1,17 @@
+__pycache__
+build
+dist
+.vscode
+.DS_Store
+.venv
+.ipynb_checkpoints
+.coverage
+coverage.xml
+.pytest_cache
+
+.env
+config.ini
+scanner.log
+pytest_tmp
+out.toml
+out.yaml
